@@ -249,7 +249,7 @@ const projects = [
   {
     name: "Token Swap",
     description:
-      " Created a user-friendly coin exchange platform enabling seamless Cryptocurrency swaps across different Blockchain networks. Utilized the 1-inch API to provide users with a convenient interface",
+      " Created a user-friendly Decentralized coin exchange platform enabling seamless Cryptocurrency swaps across different Blockchain networks. Utilized the 1-inch API to provide users with a convenient interface",
     tags: [
       {
         name: "react",
@@ -265,7 +265,7 @@ const projects = [
       },
     ],
     image: tokenswap,
-    source_code_link: "https://github.com/Bhavik-punmiya/case-opening-drop",
+    source_code_link: "https://github.com/Bhavik-punmiya/Decentralized-Coin-Exchange",
   },
   {
     name: "E-Certification",
@@ -286,7 +286,7 @@ const projects = [
       },
     ],
     image: ecertification,
-    source_code_link: "https://github.com/Bhavik-punmiya/case-opening-drop",
+    source_code_link: "https://github.com/Bhavik-punmiya/E-Certification",
   },
   {
     name: "SmartContract Lottery",
@@ -303,7 +303,7 @@ const projects = [
       },
     ],
     image: lottery,
-    source_code_link: "https://github.com/Bhavik-punmiya/case-opening-drop",
+    source_code_link: "https://github.com/Bhavik-punmiya/SmartContract-Lottery-Foundry",
   },
 ];
 
