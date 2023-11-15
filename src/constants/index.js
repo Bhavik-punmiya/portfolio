@@ -189,15 +189,15 @@ const projects = [
       "Developed an ERC-20 Token pegged to USD value with a 200% overcollateralized smart contract, ensuring stability having features for borrowing, depositing, liquidating, and burning tokens ",
     tags: [
       {
-        name: "react",
+        name: "foundry",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "ethereum",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "chainlink",
         color: "pink-text-gradient",
       },
     ],
@@ -214,11 +214,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "ethereum",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "remix",
         color: "pink-text-gradient",
       },
     ],
@@ -231,15 +231,15 @@ const projects = [
       "Created a transparent chest-like system inspired by famous games like CSGO and FIFA where users can open chests or packages to acquire items. Draw findings and be transparent with Chainlink VRF",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "ethereum",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "chainlinkVRF",
         color: "pink-text-gradient",
       },
     ],
@@ -252,15 +252,15 @@ const projects = [
       " Created a user-friendly coin exchange platform enabling seamless Cryptocurrency swaps across different Blockchain networks. Utilized the 1-inch API to provide users with a convenient interface",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "ethereum",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "1Inch",
         color: "pink-text-gradient",
       },
     ],
@@ -273,15 +273,15 @@ const projects = [
       "Developed a blockchain-based interface for certificate generation and validation, ensuring transparency and immutability. Improved certification processes by targeting government and user use cases.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "ethereum",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "opencv",
         color: "pink-text-gradient",
       },
     ],
@@ -294,15 +294,11 @@ const projects = [
       "Designed a decentralized lottery system using Chainlink VRF, ensuring fair and verifiable drawing of results. Open for public verification to maintain transparency and integrity",
     tags: [
       {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
+        name: "ChainlinkAutomation",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "ChainlinkVRF",
         color: "pink-text-gradient",
       },
     ],

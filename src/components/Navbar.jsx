@@ -6,6 +6,7 @@ import { menu, close } from '../assets';
 import logo from '../assets/svg/logo.svg';
 
 
+
 const Navbar = () => {
   const [active, setActive] = useState("")
   const [toggle, setToggle] = useState(false);
